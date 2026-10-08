@@ -1,6 +1,6 @@
 // DATOS DE TU TIENDA
 const tienda = {
-  whatsapp: "526671210367",
+  whatsapp: "526674901045",
 
   mensaje:
     "Hola, me interesa un conjunto deportivo de YeipiStore.",
